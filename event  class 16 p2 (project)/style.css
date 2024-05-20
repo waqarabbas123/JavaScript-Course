@@ -1,0 +1,17 @@
+.dark {
+  background-color: black;
+  color: white;
+}
+.light {
+  background-color: white;
+  color: black;
+}
+
+p {
+  font-size: 20px;
+  text-align: center;
+}
+button {
+  padding: 12px;
+  margin-left: 620px;
+}
