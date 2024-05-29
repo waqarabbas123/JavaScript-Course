@@ -1,2 +1,3 @@
-In this repository we can learn about javascript from start to end .
-with notes and code.
+In this repository we learn about JavaScript from start to end .
+clear all the concept of JavaScript.
+with notes and code in it.
