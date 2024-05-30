@@ -1,3 +1,3 @@
 In this repository we learn about JavaScript from start to end .
-clear all the concept of JavaScript.
-with notes and code in it.
+clear all the concept of javascript .
+with notes and code .
