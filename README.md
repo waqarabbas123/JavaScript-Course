@@ -1,5 +1,5 @@
 #__JavaScript Course
 
-In this repository we learn about javascript form start to end 
-clear all the concept of javascript 
-with notes and code also .
+In this repository we can learn about javascript from start to end.
+Clear all the concept of javascript
+With notes and code aslo .
