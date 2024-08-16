@@ -1,4 +1,4 @@
 #__Javascript Course
 In this repositoruy we learn about javascript from start to end .
 Clear all the concept of javascript .
-With notes and code also
+With notes and code also.
