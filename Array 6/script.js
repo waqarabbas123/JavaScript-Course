@@ -93,7 +93,7 @@
 // const myn2 = Arr3.splice(1)
 // console.log(myn2);
 
-// ----------------------Spreading ------------------
+// ----------------------Spreading ------------
 
 // let Arr1 = [0, 1, 2, 3, 4, 5];
 // let Arr2 = ["waqar", "ali", "hassan", "sajid", "fida"];
