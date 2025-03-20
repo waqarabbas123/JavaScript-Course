@@ -1,8 +1,8 @@
 // =----------------------loop-------------
-// loop mean again and agian its offer a qucil and easy way to something are reapeated there are many types of loops
+// loop mean again and agian its offer a qucik and easy way to something are reapeated there are many types of loops .
 
 // -----------------------------for loop--------------------
-//
+
 // the for loop statement create a loop that consist of three types are expression
 // --------example 1
 
